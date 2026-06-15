@@ -173,8 +173,8 @@ export async function createInitialHelpMenu(client) {
         .setStyle(ButtonStyle.Link);
 
     const touchpointButton = new ButtonBuilder()
-        .setLabel("Learn from Touchpoint")
-        .setURL("https://www.youtube.com/@TouchDisc")
+        .setLabel("Sub to me")
+        .setURL("https://youtube.com/@dem0n-x9m2q?si=zcC9sxDQMQ5E-MQs")
         .setStyle(ButtonStyle.Link);
 
     const selectRow = createSelectMenu(
